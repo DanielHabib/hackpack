@@ -1,7 +1,10 @@
 # hackpack
 Hackpack
 
-Join the Hackpack: https://hackpack.io/
+Join the Hackpack: https://discord.com/invite/A52A9Sp7rM
+
+
+https://hackpack.io/
 
 Preparing for programming interviews is a directionless and isolating experience, it doesn't have to be. Join the communtiy of people who are just as serious about programming interviews as you today.
 
